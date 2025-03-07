@@ -1,0 +1,153 @@
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección_de_Exámenes.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Modulo_C_Examenes.frmCorEx.resources
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\refint\Corrección de Exámenes.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\ref\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Modulo_C_Examenes.frmCorEx.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección_de_Exámenes.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\refint\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\ref\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Modulo_C_Examenes.frmCorEx.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección_de_Exámenes.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\refint\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\ref\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Modulo_C_Examenes.frmCorEx.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección_de_Exámenes.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\refint\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\ref\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Modulo_C_Examenes.frmCorEx.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección_de_Exámenes.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\refint\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\ref\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Modulo_C_Examenes.frmCorEx.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección_de_Exámenes.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\refint\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\ref\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Modulo_C_Examenes.frmCorEx.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección_de_Exámenes.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\refint\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\ref\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Modulo_C_Examenes.frmCorEx.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección_de_Exámenes.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\refint\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\ref\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Modulo_C_Examenes.frmCorEx.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección_de_Exámenes.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\refint\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\Corrección de Exámenes.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Corrección de Exámenes\obj\Debug\net8.0-windows\ref\Corrección de Exámenes.dll
