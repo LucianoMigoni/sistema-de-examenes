@@ -1,0 +1,173 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Administración Banco Preguntas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Administración Banco Preguntas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Administración Banco Preguntas.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Corrección de Exámenes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Corrección de Exámenes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Corrección de Exámenes.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Generación de Archivo Texto Exámenes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Generación de Archivo Texto Exámenes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Generación de Archivo Texto Exámenes.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "Generación de Exámenes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Generación de Exámenes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Generación de Exámenes.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Administración Banco Preguntas/1.0.0": {
+      "type": "project",
+      "path": "../Administración Banco Preguntas/Administración Banco Preguntas.csproj",
+      "msbuildProject": "../Administración Banco Preguntas/Administración Banco Preguntas.csproj"
+    },
+    "Corrección de Exámenes/1.0.0": {
+      "type": "project",
+      "path": "../Corrección de Exámenes/Corrección de Exámenes.csproj",
+      "msbuildProject": "../Corrección de Exámenes/Corrección de Exámenes.csproj"
+    },
+    "Generación de Archivo Texto Exámenes/1.0.0": {
+      "type": "project",
+      "path": "../Generación de Archivo Texto Exámenes/Generación de Archivo Texto Exámenes.csproj",
+      "msbuildProject": "../Generación de Archivo Texto Exámenes/Generación de Archivo Texto Exámenes.csproj"
+    },
+    "Generación de Exámenes/1.0.0": {
+      "type": "project",
+      "path": "../Generación de Exámenes/Generación de Exámenes.csproj",
+      "msbuildProject": "../Generación de Exámenes/Generación de Exámenes.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Administración Banco Preguntas >= 1.0.0",
+      "Corrección de Exámenes >= 1.0.0",
+      "Generación de Archivo Texto Exámenes >= 1.0.0",
+      "Generación de Exámenes >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\irong\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\irong\\Documents\\Programación\\VisualStudio\\Facultad2024\\v11\\TP Final - Sistema de Gestión de Exámenes\\Menú Principal\\Menú Principal.csproj",
+      "projectName": "Menú Principal",
+      "projectPath": "C:\\Users\\irong\\Documents\\Programación\\VisualStudio\\Facultad2024\\v11\\TP Final - Sistema de Gestión de Exámenes\\Menú Principal\\Menú Principal.csproj",
+      "packagesPath": "C:\\Users\\irong\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\irong\\Documents\\Programación\\VisualStudio\\Facultad2024\\v11\\TP Final - Sistema de Gestión de Exámenes\\Menú Principal\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\irong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\irong\\Documents\\Programación\\VisualStudio\\Facultad2024\\v11\\TP Final - Sistema de Gestión de Exámenes\\Administración Banco Preguntas\\Administración Banco Preguntas.csproj": {
+              "projectPath": "C:\\Users\\irong\\Documents\\Programación\\VisualStudio\\Facultad2024\\v11\\TP Final - Sistema de Gestión de Exámenes\\Administración Banco Preguntas\\Administración Banco Preguntas.csproj"
+            },
+            "C:\\Users\\irong\\Documents\\Programación\\VisualStudio\\Facultad2024\\v11\\TP Final - Sistema de Gestión de Exámenes\\Corrección de Exámenes\\Corrección de Exámenes.csproj": {
+              "projectPath": "C:\\Users\\irong\\Documents\\Programación\\VisualStudio\\Facultad2024\\v11\\TP Final - Sistema de Gestión de Exámenes\\Corrección de Exámenes\\Corrección de Exámenes.csproj"
+            },
+            "C:\\Users\\irong\\Documents\\Programación\\VisualStudio\\Facultad2024\\v11\\TP Final - Sistema de Gestión de Exámenes\\Generación de Archivo Texto Exámenes\\Generación de Archivo Texto Exámenes.csproj": {
+              "projectPath": "C:\\Users\\irong\\Documents\\Programación\\VisualStudio\\Facultad2024\\v11\\TP Final - Sistema de Gestión de Exámenes\\Generación de Archivo Texto Exámenes\\Generación de Archivo Texto Exámenes.csproj"
+            },
+            "C:\\Users\\irong\\Documents\\Programación\\VisualStudio\\Facultad2024\\v11\\TP Final - Sistema de Gestión de Exámenes\\Generación de Exámenes\\Generación de Exámenes.csproj": {
+              "projectPath": "C:\\Users\\irong\\Documents\\Programación\\VisualStudio\\Facultad2024\\v11\\TP Final - Sistema de Gestión de Exámenes\\Generación de Exámenes\\Generación de Exámenes.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

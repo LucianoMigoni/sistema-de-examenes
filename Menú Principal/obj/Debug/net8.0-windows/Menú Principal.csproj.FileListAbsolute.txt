@@ -1,0 +1,378 @@
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.resources
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.es-AR.resources
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.exe
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.deps.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.runtimeconfig.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\refint\Menú Principal.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\ref\Menú Principal.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú_Principal.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.AssemblyReference.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú_Principal.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.es-AR.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Men_ Pri.D723609D.Up2Date
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\refint\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\ref\Menú Principal.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.deps.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.runtimeconfig.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.exe
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.deps.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.runtimeconfig.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.exe
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.deps.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.runtimeconfig.json
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.exe
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.dll
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.pdb
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.pdb
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.pdb
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Men_ Pri.D723609D.Up2Date
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.AssemblyReference.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú_Principal.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.es-AR.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Men_ Pri.D723609D.Up2Date
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\refint\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v3\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\ref\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.AssemblyReference.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú_Principal.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.es-AR.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Men_ Pri.D723609D.Up2Date
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\refint\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v4\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\ref\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.AssemblyReference.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú_Principal.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.es-AR.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Men_ Pri.D723609D.Up2Date
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\refint\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v5\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\ref\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.AssemblyReference.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú_Principal.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.es-AR.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Men_ Pri.D723609D.Up2Date
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\refint\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v6\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\ref\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.AssemblyReference.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú_Principal.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.es-AR.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Men_ Pri.D723609D.Up2Date
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\refint\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v7\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\ref\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.AssemblyReference.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú_Principal.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.es-AR.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Men_ Pri.D723609D.Up2Date
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\refint\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v9\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\ref\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.exe
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.deps.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.runtimeconfig.json
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Administración Banco Preguntas.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Corrección de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Archivo Texto Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\bin\Debug\net8.0-windows\Generación de Exámenes.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.AssemblyReference.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú_Principal.Properties.Resources.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menu_Principal.frmMenúPrincipal.es-AR.resources
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.GenerateResource.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfoInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.AssemblyInfo.cs
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.csproj.CoreCompileInputs.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\es-AR\Menú Principal.resources.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Men_ Pri.D723609D.Up2Date
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\refint\Menú Principal.dll
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.pdb
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\Menú Principal.genruntimeconfig.cache
+C:\Users\irong\Documents\Programación\VisualStudio\Facultad2024\v11\TP Final - Sistema de Gestión de Exámenes\Menú Principal\obj\Debug\net8.0-windows\ref\Menú Principal.dll
